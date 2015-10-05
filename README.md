@@ -357,7 +357,7 @@ A curated list of awesome Swift frameworks, libraries and software.
 * [colemancda/NetworkObjects](https://github.com/colemancda/NetworkObjects) - Swift backend framework
 * [yankodimitrov/SwiftPasscodeLock](https://github.com/yankodimitrov/SwiftPasscodeLock) - An iOS passcode lock with Touch ID authentication written in Swift.
 * [lexrus/LeetCode.swift](https://github.com/lexrus/LeetCode.swift) - Once upon a time there was a noob of algorithms, and he knew a little about Swift.
-* [alextarrago/QZCircleSegue](https://github.com/alextarrago/QZCircleSegue) - QZCircleSegue is written in Swift and it is a beatiful transition between circular-shapped buttons and your View Controller.
+* [alextarrago/QZCircleSegue](https://github.com/alextarrago/QZCircleSegue) - QZCircleSegue is written in Swift and it is a beautiful transition between circular-shapped buttons and your View Controller.
 * [seivan/ScalarArithmetic](https://github.com/seivan/ScalarArithmetic) - Better interoperability between different numerical types by using operator overloading and implicit casts conversions
 * [rshevchuk/ScreenSceneController](https://github.com/rshevchuk/ScreenSceneController) - ScreenSceneController — custom view controller that manages the navigation of hierarchical content in JetRadar and Aviasales apps. It's written in Swift.
 * [nothingmagical/coins](https://github.com/nothingmagical/coins) - Bitcoin value tracker
