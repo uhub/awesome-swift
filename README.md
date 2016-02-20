@@ -1082,7 +1082,7 @@ A curated list of awesome Swift frameworks, libraries and software.
 * [IngmarStein/Monolingual](https://github.com/IngmarStein/Monolingual) - Remove unnecessary language resources from OS X.
 * [ataugeron/SpriteKit-Spring](https://github.com/ataugeron/SpriteKit-Spring) - SpriteKit API reproducing UIView's spring animations with SKAction
 * [azamsharp/WatchNotes](https://github.com/azamsharp/WatchNotes) - Notes on your wrist!
-* [voyage11/AutoLayoutBasics](https://github.com/voyage11/AutoLayoutdennisw) - Using Auto Layout in XCode 6 for iOS 7 and 8. How to use storyboard constraints with Compact, Any, Regular Height and Width together with Storyboard Preview Function.
+* [voyage11/AutoLayoutBasics](https://github.com/voyage11/AutoLayoutbasics) - Using Auto Layout in XCode 6 for iOS 7 and 8. How to use storyboard constraints with Compact, Any, Regular Height and Width together with Storyboard Preview Function.
 * [sandofsky/soon](https://github.com/sandofsky/soon) - Countdown App
 * [radex/DiffyTables](https://github.com/radex/DiffyTables) - Practical and efficient WatchKit tables
 * [ykyouhei/KYDrawerController](https://github.com/ykyouhei/KYDrawerController) - Side Drawer Navigation Controller similar to Android
