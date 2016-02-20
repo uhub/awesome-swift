@@ -728,7 +728,7 @@ A curated list of awesome Swift frameworks, libraries and software.
 * [marketplacer/swift-badge](https://github.com/marketplacer/swift-badge) - Badge view for iOS written in swift
 * [liscio/FunctionalDSP](https://github.com/liscio/FunctionalDSP) - An exploration of functional DSP programming ideas in Swift
 * [dparnell/swift-parser-generator](https://github.com/dparnell/swift-parser-generator) - Experimental swift parser generator
-* [dennisweissmann/Basics](https://github.com/dennisweissmann/Basics) - Basic Swift Classes, Structs, Enums and Other Data Structures
+* [dennisweissmann/DeviceKit](https://github.com/dennisweissmann/DeviceKit) - DeviceKit is a value-type replacement of UIDevice.
 * [bradley/iOSSwiftOpenGLCamera](https://github.com/bradley/iOSSwiftOpenGLCamera) - An example app showing how use AVCaptureSession and OpenGL to apply shaders to live video (written in Swift).
 * [ashishkakkad8/AKSwiftSlideMenu](https://github.com/ashishkakkad8/AKSwiftSlideMenu) - Slide Menu (Drawer) in Swift 2 and Xcode 7
 * [TDAbboud/PhotosGalleryApp](https://github.com/TDAbboud/PhotosGalleryApp) - Swift application demonstrating how to use the Photos framework
@@ -954,14 +954,13 @@ A curated list of awesome Swift frameworks, libraries and software.
 * [nghialv/Hakuba](https://github.com/nghialv/Hakuba) - Cellmodel-driven tableview manager
 * [soffes/GradientView](https://github.com/soffes/GradientView) - Easily use gradients in UIKit.
 * [ptsochantaris/trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub & GitHub Enterprise
-* [kylef/CommandKit](https://github.com/kylef/CommandKit) - The swiftest way to write a command line tool
+* [kylef/Commander](https://github.com/kylef/Commander) - The swiftest way to write a command line tool
 * [evermeer/EVCloudKitDao](https://github.com/evermeer/EVCloudKitDao) - Simplified access to Apple's CloudKit
 * [imgly/imgly-sdk-ios](https://github.com/imgly/imgly-sdk-ios) - img.ly SDK for iOS
 * [ide/UIVisualEffects](https://github.com/ide/UIVisualEffects) - Learn how to use UIVisualEffectViews with UIBlurEffect and UIVibrancyEffect in iOS 8 and up
 * [indragiek/MarkdownTextView](https://github.com/indragiek/MarkdownTextView) - Rich Markdown editing control for iOS
 * [mobitar/Starburst](https://github.com/mobitar/Starburst) - A collection of animated loading sequences for Apple Watch
 * [soffes/SyntaxKit](https://github.com/soffes/SyntaxKit) - TextMate-style syntax highlighting
-* [ArtSabintsev/PrintlnMagic](https://github.com/ArtSabintsev/PrintlnMagic) - An alternative for Swift's println() function along the lines of DLog.
 * [mfikes/replete](https://github.com/mfikes/replete) - ClojureScript REPL iOS app
 * [KyoheiG3/DynamicBlurView](https://github.com/KyoheiG3/DynamicBlurView) - DynamicBlurView is a dynamic and high performance UIView subclass for Blur.
 * [soffes/valio](https://github.com/soffes/valio) - Valio Con 2014 Schedule
@@ -1083,7 +1082,7 @@ A curated list of awesome Swift frameworks, libraries and software.
 * [IngmarStein/Monolingual](https://github.com/IngmarStein/Monolingual) - Remove unnecessary language resources from OS X.
 * [ataugeron/SpriteKit-Spring](https://github.com/ataugeron/SpriteKit-Spring) - SpriteKit API reproducing UIView's spring animations with SKAction
 * [azamsharp/WatchNotes](https://github.com/azamsharp/WatchNotes) - Notes on your wrist!
-* [voyage11/AutoLayoutBasics](https://github.com/voyage11/AutoLayoutBasics) - Using Auto Layout in XCode 6 for iOS 7 and 8. How to use storyboard constraints with Compact, Any, Regular Height and Width together with Storyboard Preview Function.
+* [voyage11/AutoLayoutBasics](https://github.com/voyage11/AutoLayoutdennisw) - Using Auto Layout in XCode 6 for iOS 7 and 8. How to use storyboard constraints with Compact, Any, Regular Height and Width together with Storyboard Preview Function.
 * [sandofsky/soon](https://github.com/sandofsky/soon) - Countdown App
 * [radex/DiffyTables](https://github.com/radex/DiffyTables) - Practical and efficient WatchKit tables
 * [ykyouhei/KYDrawerController](https://github.com/ykyouhei/KYDrawerController) - Side Drawer Navigation Controller similar to Android
