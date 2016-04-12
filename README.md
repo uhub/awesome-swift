@@ -1186,3 +1186,4 @@ A curated list of awesome Swift frameworks, libraries and software.
 * [ReactiveCocoa/ReactiveAnimation-MacDemo](https://github.com/ReactiveCocoa/ReactiveAnimation-MacDemo) - OS X demo for ReactiveAnimation
 * [ashfurrow/MBLTDev](https://github.com/ashfurrow/MBLTDev) - Sample code for MBLTDev
 * [DigitalLeaves/PlaceholderTextViewDemo](https://github.com/DigitalLeaves/PlaceholderTextViewDemo) - A IBDesignable subclass of UITextView with a placeholder behaving like a UITextfield
+* [Spots](https://github.com/hyperoslo) - Spots is a view controller framework that makes your setup and future development blazingly fast.
