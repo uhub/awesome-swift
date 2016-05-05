@@ -89,6 +89,7 @@ A curated list of awesome Swift frameworks, libraries and software.
 * [icanzilb/SwiftSpinner](https://github.com/icanzilb/SwiftSpinner) - A beautiful activity indicator and modal alert written in Swift (originally developed for http://doodledoodle.io) Using blur effects, translucency, flat and bold design - all iOS 8 latest and greatest
 * [Quick/Nimble](https://github.com/Quick/Nimble) - A Matcher Framework for Swift and Objective-C
 * [malcommac/SwiftDate](https://github.com/malcommac/SwiftDate) - Easy NSDate Management in Swift 2.0
+* [Datez](https://github.com/SwiftKitz/Datez) - Breeze through NSDate, NSDateComponents, and NSTimeInterval with Swift!
 * [amitburst/HackerNews](https://github.com/amitburst/HackerNews) - A Hacker News reader iOS app written in Swift.
 * [Zewo/Venice](https://github.com/Zewo/Venice) - CSP for Swift 2 (Linux ready)
 * [schwa/SwiftGraphics](https://github.com/schwa/SwiftGraphics) - Bringing Swift goodness to Quartz.
