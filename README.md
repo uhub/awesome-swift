@@ -1682,3 +1682,4 @@ A curated list of awesome Swift frameworks, libraries and software.
 * [DigitalLeaves/PlaceholderTextViewDemo](https://github.com/DigitalLeaves/PlaceholderTextViewDemo) - A IBDesignable subclass of UITextView with a placeholder behaving like a UITextfield
 * [Brick](https://github.com/hyperoslo/Brick) - A generic view model for both basic and complex scenarios.
 * [Katana](https://github.com/BendingSpoons/katana-swift) - Swift apps a la React and Redux.
+* [IGColorPicker](https://github.com/iGenius-Srl/IGColorPicker) - 🎨 A customizable color picker for iOS in Swift
