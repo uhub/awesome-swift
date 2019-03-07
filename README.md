@@ -2,6 +2,7 @@
 
 A curated list of awesome Swift frameworks, libraries and software.
 
+* [SOAP/SOAP-API](https://github.com/kiritmodi2702/SoapAPIDemo) - SOAP API Demo in Swift
 * [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
 * [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 * [raywenderlich/swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
