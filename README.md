@@ -2271,3 +2271,4 @@ A curated list of awesome Swift frameworks, libraries and software.
 * [Brick](https://github.com/hyperoslo/Brick) - A generic view model for both basic and complex scenarios.
 * [Katana](https://github.com/BendingSpoons/katana-swift) - Swift apps a la React and Redux.
 * [Spots](https://github.com/hyperoslo/Spots) - Spots is a cross-platform view controller framework for building component-based UIs.
+* [ZISetting](https://github.com/fauzisho/ZISetting) - Simple Setting UI based on UIKit TableView
