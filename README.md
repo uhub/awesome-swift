@@ -1022,3 +1022,4 @@ A curated list of awesome Swift frameworks, libraries and software.
 * [gonzalonunez/Skeleton](https://github.com/gonzalonunez/Skeleton) - 💀 An easy way to create sliding CAGradientLayer animations! Works great for creating skeleton screens for loading content.
 * [Ramotion/navigation-toolbar](https://github.com/Ramotion/navigation-toolbar) - :octocat: Navigation toolbar is a slide-modeled UI navigation controller made by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries
 * [zhangao0086/iOS-CoreImage-Swift](https://github.com/zhangao0086/iOS-CoreImage-Swift) - Core Image for Swift
+* [philipturner/ar-multipendulum](https://github.com/philipturner/ar-multipendulum) - Transforms an iPhone into an affordable AR headset
