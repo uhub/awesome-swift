@@ -986,3 +986,4 @@ A curated list of awesome Swift frameworks, libraries and software.
 * [Friend-LGA/LGSideMenuController](https://github.com/Friend-LGA/LGSideMenuController) - iOS view controller, shows left and right views by pressing button or gesture
 * [Nirma/Attributed](https://github.com/Nirma/Attributed) - µframework for Attributed strings.
 * [ykyouhei/KYDrawerController](https://github.com/ykyouhei/KYDrawerController) - Side Drawer Navigation Controller similar to Android
+* [Explore Swift](https://kandi.openweaver.com/explore/swift) - Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi
