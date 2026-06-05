@@ -674,6 +674,7 @@ A curated list of awesome Swift frameworks, libraries and software.
 * [badrinathvm/StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
 * [ra1028/Carbon](https://github.com/ra1028/Carbon) - 🚴 A declarative library for building component-based user interfaces in UITableView and UICollectionView.
 * [jogendra/example-ios-apps](https://github.com/jogendra/example-ios-apps) -  A curated list of Open Source example iOS apps developed in Swift. An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.
+* [megabyte0x/healthykit](https://github.com/megabyte0x/healthykit) - HealthSync is a SwiftUI iOS app for syncing selected Apple Health data from HealthKit to a private backend API.
 * [RxSwiftCommunity/RxSwiftExt](https://github.com/RxSwiftCommunity/RxSwiftExt) - A collection of Rx operators & tools not found in the core RxSwift distribution
 * [sindresorhus/DockProgress](https://github.com/sindresorhus/DockProgress) - Show progress in your app's Dock icon
 * [twostraws/Sitrep](https://github.com/twostraws/Sitrep) - A source code analyzer for Swift projects.
