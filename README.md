@@ -818,6 +818,7 @@ A curated list of awesome Swift frameworks, libraries and software.
 * [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The only app that owns your whole menu bar, in and out.
 * [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac *(archived)*
 * [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.
+* [yagcioglutoprak/dusty](https://github.com/yagcioglutoprak/dusty) - SwiftUI macOS menu bar cleaner for reclaiming disk space from caches, logs, Xcode data, and developer artifacts.
 * [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
 * [insidegui/WWDC](https://github.com/insidegui/WWDC) - The unofficial WWDC app for macOS
 * [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
